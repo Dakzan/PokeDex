@@ -1,41 +1,25 @@
-# Despliegue de la app PokeDex en Azure for Students.
+# Estudiante: Deivyd Steven Granados
 
-**Estudiante:** Deivyd Steven Granados Castro.
+## Guía para crear una cuenta en Azure for Students
 
-**GitHub:** [https://github.com/Dakzan/PokeDex](https://github.com/Dakzan/PokeDex)
+### 1. Lo que necesitas
+- Un correo electrónico institucional  
+- Documento de identificación válido  
+- Un número de teléfono activo  
 
-## Paso a Paso.
+### 2. Accede al portal de Azure
+- Ingresa a: [https://azure.microsoft.com/free/students/](https://azure.microsoft.com/free/students/)
 
-1. **Clonar el código fuente.**
+### 3. Crea o usa una cuenta Microsoft
+- ¿Ya tienes cuenta Microsoft con tu correo académico? Perfecto, úsala.  
+- ¿No tienes? Créala usando únicamente tu correo institucional. Nada de correos personales.
 
-Clona el repositorio original de la app PokeDex.
+### 4. Verifica que eres estudiante
+- Azure te pedirá confirmar tu correo académico.  
+- En algunos casos, se apoyan en plataformas como SheerID para comprobar tu estatus de estudiante.
 
-2. **Crear un nuevo repositorio en GitHub.**
+### 5. Obtén tus créditos gratuitos
+- Recibirás **$100 USD en créditos** para usar durante un año.
 
-Llama al repo `Pokedex` y sube ahí el código clonado.
-
-3. **Preparar el entorno local.**
-
-Configura tu ambiente para pruebas y desarrollo local.
-
-4. **Desplegar en Azure Static Web Apps.**
-
-- Entra al [Azure Portal](https://portal.azure.com)
-
-- Crea un recurso tipo **Static Web App.**
-
-- Conecta tu cuenta de GitHub y selecciona el repo `pokedex`.
-
-- Configura los parámetros necesarios.
-
-- Crea la aplicación.
-
-Azure se encargará del build y el despliegue automático.
-
-5. **Escanear con SecurityHeaders**
-
-- Visita [https://securityheaders.com](https://securityheaders.com)
-
-- Pega la URL pública de tu app.
-
-¡Listo!
+### 6. ¡Ya estás listo!
+- Con tu cuenta activa, puedes desplegar desde máquinas virtuales hasta servicios completos como APIs.
